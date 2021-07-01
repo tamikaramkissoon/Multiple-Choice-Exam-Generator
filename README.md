@@ -7,6 +7,7 @@
 - [Description](#description)
 - [Lanaguages tools and technologies](#lanaguages-tools-and-technologies)
 - [Project](#project)
+- [Acknowledgement](#acknowledgement)
 - [Author Info](#author-info)
 
 ---
@@ -36,6 +37,11 @@ A record was kept of the user’s performance on each question to generate teh s
 
 ## Project
 ![Screenshot (630)](https://user-images.githubusercontent.com/77646306/124189408-a8f87b00-da8e-11eb-9988-d05eda37ff41.png)
+
+---
+
+## Acknowledgement
+* COMP1602 - Assignment
 
 ---
 
