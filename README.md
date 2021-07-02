@@ -5,7 +5,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Description](#description)
-- [Lanaguages tools and technologies](#lanaguages-tools-and-technologies)
+- [Languages tools and technologies](#languages-tools-and-technologies)
 - [Project](#project)
 - [Acknowledgement](#acknowledgement)
 - [Author Info](#author-info)
@@ -29,7 +29,7 @@ A record was kept of the user’s performance on each question to generate teh s
 
 ---
 
-## Lanaguages tools and technologies
+## Languages tools and technologies
 * C++
 * Data structures
 
